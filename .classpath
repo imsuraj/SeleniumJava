@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/SeleniumServer/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/webdrivermanager-3.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/jar_files.zip"/>
+	<classpathentry kind="lib" path="/Users/suraj/Tools/Webdriver Manager/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
