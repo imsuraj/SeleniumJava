@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG Session with Suraj">
+  <test thread-count="5" name="Different test written by me">
+  
+  <parameter name="url" value="https://login.yahoo.com"></parameter>
+  <parameter name="email_id" value="test@yahoo.com"></parameter>
+  
+    <classes>
+      <class name="com.testNGParameter.ParameterTest"/>
+ 
+     
+    </classes>
+  </test> 
+</suite> 

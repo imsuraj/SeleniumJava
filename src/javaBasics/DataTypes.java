@@ -41,9 +41,11 @@ public class DataTypes {
 		
 		String s = "Suraj";
 		String s1 = "Anand";
-		String s3 = "1000";
+		String s3 = "1000.00";
 		
-		System.out.println(s);
+		int i1 = (int) Double.parseDouble(s3);
+		System.out.println(i1);
+		System.out.println(s3);
 		
 		
 				

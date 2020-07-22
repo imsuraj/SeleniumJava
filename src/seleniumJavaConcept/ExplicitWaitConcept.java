@@ -44,3 +44,23 @@ public class ExplicitWaitConcept {
 	}
 
 }
+
+/*
+ * 
+ * explicit wait 
+ * -- runs at local level of selenium codeimplicit wait
+ * -- well documented and defined behaviour	
+ * -- customizable
+ * -- not only for web elements but for other options
+ * -- igonre the exeption
+ * 
+ * 
+ * 
+ * implicitlyWait e
+ * 	-- runs on remote side of selenium webdriver
+ * 	-- undocumented and undefined behaviour
+ * 	-- only works for findElement(s)
+ * 	-- cannot be customized/global wait
+ * 
+ */
+

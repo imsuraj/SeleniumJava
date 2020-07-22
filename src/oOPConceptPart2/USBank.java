@@ -9,6 +9,8 @@ public interface USBank {
 	public void debit();
 	
 	public void transferMoney();
+	
+
 
 
 	//1. can not have method body -- only prototype/declaration
